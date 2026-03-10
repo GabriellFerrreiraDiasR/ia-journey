@@ -1,0 +1,1 @@
+print("Aqui começa minha jornada de aprendizado em IA com Python!")
